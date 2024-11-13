@@ -1,0 +1,59 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "modelo": "Mazda Miata",
+      "preco": 15000,
+      "ano": 2000,
+      "potencia": 80,
+      "imagem": "https://www.automaistv.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=904&height=508&format=.jpeg&quality=91&imagick=uploads.automaistv.com.br/2024/02/mazda_miata_24-1320x791.jpeg"
+    },
+    {
+      "id": "2",
+      "modelo": "Mazda R7",
+      "preco": 600000,
+      "ano": 2023,
+      "potencia": 700,
+      "imagem": "https://cdn.awsli.com.br/2500x2500/2571/2571273/produto/272761190/s1810602-1-xdobalbuke.jpg"
+    },
+    {
+      "id": "3",
+      "modelo": "McLaren Senna",
+      "preco": 2000000,
+      "ano": 2023,
+      "potencia": 800,
+      "imagem": "https://th.bing.com/th/id/R.18d991f8ef93c2f2189f542fb4fc58bc?rik=0yw6j6mn7sPKTg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "888f",
+      "modelo": "Porsche 992",
+      "preco": "850000",
+      "ano": "2021",
+      "potencia": "450",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Porsche_992_Cabrio%2C_GIMS%2C_Le_Grand-Saconnex_%28GIMS0127%29.jpg/300px-Porsche_992_Cabrio%2C_GIMS%2C_Le_Grand-Saconnex_%28GIMS0127%29.jpg"
+    },
+    {
+      "id": "5b00",
+      "modelo": "Formula Ford 1600",
+      "preco": "50000",
+      "ano": "2021",
+      "potencia": "125",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/F1600_mtl_070615.jpg/330px-F1600_mtl_070615.jpg"
+    },
+    {
+      "id": "8357",
+      "modelo": "Le Mans Prototype",
+      "preco": "2500000",
+      "ano": "2024",
+      "potencia": "600",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJxq6qA-1kYXgBWG8YkPvpMw-mv5_SgUHDA&s"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "email": "andrer@hotmail.com",
+      "senha": "andrer@hotmail.com"
+    }
+  ]
+}

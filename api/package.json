@@ -1,0 +1,14 @@
+{
+  "name": "framework_api",
+  "version": "1.0.0",
+  "description": "API para frameworks web",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server db.json"
+  },
+  "author": "André Luz",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
